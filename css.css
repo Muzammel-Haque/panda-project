@@ -1,0 +1,29 @@
+.panda-card{
+    border:0;
+    background-color: white;
+}
+.categories-panda img{
+    width: 80px;
+}
+.colo-1{
+    background-color: #052C65;
+}
+.colo-2{
+    background-color: #6610F2;
+}
+.colo-3{
+    background-color: #DC3545;
+}
+.bc-slide{
+    background-color: #FCEAE8;
+}
+.last-section{
+    background-color: #FCEAE8;
+}
+.f-z{
+    font-size: 18px;
+    font-weight: 600;
+}
+.magin{
+    margin-top: 130px;
+}
